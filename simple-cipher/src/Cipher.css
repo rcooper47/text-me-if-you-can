@@ -1,0 +1,11 @@
+#input {
+    position: relative;
+    top: 200px;
+    left: 30px;
+  }
+
+#output {
+        position: relative;
+        top: 220px;
+        left: 30px;
+}
