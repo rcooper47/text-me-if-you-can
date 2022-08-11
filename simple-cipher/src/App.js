@@ -1,5 +1,5 @@
 import './App.css';
-import Cipher from './Cipher.js';
+import Cipher from './Cipher.jsx';
 
 function App() {
   return (
