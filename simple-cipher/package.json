@@ -37,12 +37,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< Updated upstream
-=======
+
   },
   "devDependencies": {
     "gh-pages": "^4.0.0",
     "netlify-cli": "^10.16.0"
->>>>>>> Stashed changes
+
+  },
+  "devDependencies": {
+    "netlify-cli": "^10.16.0"
   }
 }
